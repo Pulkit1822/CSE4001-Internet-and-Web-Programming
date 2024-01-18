@@ -1,4 +1,4 @@
-# Internet and Web Programming (IWP) Exam Solutions
+# Internet and Web Programming (IWP) Exam Solution
 
 Welcome to the repository for the authorized solution manual for the Internet and Web Programming subject's semester exam. This repository contains a comprehensive guide to the final exam paper, which was worth full credits in a 4-credit course.
 
