@@ -13,7 +13,7 @@ This repository serves as an authorized resource for students who have completed
 
 ## Contents
 The repository includes the following files:
-- [Internet_Web_Programming_Exam_Solutions.pdf](./Internet_Web_Programming_Exam_Solutions.pdf): The authorized solution manual in PDF format.
+- [IWP-TEE paper solution.pdf](https://github.com/Pulkit1822/IWP-Paper-solution/blob/main/IWP-TEE%20paper%20solution.pdf): The authorized solution manual in PDF format.
 
 ## Usage
 Feel free to use this resource for educational purposes, such as reviewing and understanding the concepts covered in the exam. However, ensure that you abide by your institution's academic integrity policies and use this material responsibly.
