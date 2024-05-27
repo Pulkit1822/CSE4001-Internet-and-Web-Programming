@@ -1,4 +1,4 @@
-# Internet and Web Programming (CSE4001)
+# [Internet and Web Programming (CSE4001)](https://github.com/Pulkit1822/CSE4001-Internet-and-Web-Programming)
 
 This repository contains the question paper, a solution to it, and my answer sheets for the course: Internet and Web Programming (CSE4001) offered in the Interim Semester 2023-24.
 
