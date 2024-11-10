@@ -1,4 +1,11 @@
-# [Internet and Web Programming (CSE4001)](https://github.com/Pulkit1822/CSE4001-Internet-and-Web-Programming)
+# []()
+
+<p align="center">
+  <a href="https://github.com/Pulkit1822/CSE4001-Internet-and-Web-Programming">
+    <img src="https://e7.pngegg.com/pngimages/827/941/png-clipart-web-development-web-design-logo-website-arrow-and-globe-logo-search-engine-optimization-text.png" height="128">
+  </a>
+   <h1 align="center">Internet and Web Programming (CSE4001)</h1>
+</p>
 
 This repository contains the question paper, a solution to it, and my answer sheets for the course: Internet and Web Programming (CSE4001) offered in the Interim Semester 2023-24.
 
