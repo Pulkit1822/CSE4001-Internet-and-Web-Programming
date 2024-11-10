@@ -4,6 +4,12 @@ This repository contains the question paper, a solution to it, and my answer she
 
 ---
 
+## Project Overview
+
+This project is a comprehensive repository for the Internet and Web Programming (CSE4001) course. It includes the question paper, solutions, and answer sheets. The purpose of this project is to provide a complete guide and resource for students and developers interested in web programming.
+
+---
+
 ## Result
 
 Here are my scores:
@@ -18,7 +24,27 @@ The repository contains:
 - [Question Paper](https://github.com/Pulkit1822/CSE4001-Internet-and-Web-Programming/blob/main/Question%20Paper/question-paper.pdf)
 - [Solution to the Question Paper](https://github.com/Pulkit1822/CSE4001-Internet-and-Web-Programming/blob/main/Solution/solution.pdf)
 
-## Setup 
+---
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- MongoDB/MySQL
+- Git
+- Visual Studio Code
+
+---
+
+## Why This Project Stands Out
+
+This project stands out due to its comprehensive nature, providing not only the question paper and solutions but also detailed answer sheets. It leverages modern web technologies like Node.js and MongoDB/MySQL, making it a robust and scalable solution. The use of Git for version control ensures that the project is well-organized and easy to collaborate on.
+
+---
+
+## How to Run the Project
 
 To get started with web development on your system, follow these steps to set up the complete environment.
 
@@ -137,6 +163,36 @@ To get started with web development on your system, follow these steps to set up
      git --version
      ```
    - You should see the installed version of Git.
+
+---
+
+## Contribution Guidelines
+
+We welcome contributions to this project! To contribute, follow these steps:
+
+1. **Fork the repository**: Click the "Fork" button at the top right of this page to create a copy of this repository in your GitHub account.
+2. **Clone the repository**: Clone the forked repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/your-username/CSE4001-Internet-and-Web-Programming.git
+   ```
+3. **Create a new branch**: Create a new branch for your feature or bug fix using the following command:
+   ```bash
+   git checkout -b feature-or-bugfix-name
+   ```
+4. **Make your changes**: Make the necessary changes to the codebase.
+5. **Commit your changes**: Commit your changes with a descriptive commit message using the following command:
+   ```bash
+   git commit -m "Description of your changes"
+   ```
+6. **Push your changes**: Push your changes to your forked repository using the following command:
+   ```bash
+   git push origin feature-or-bugfix-name
+   ```
+7. **Create a pull request**: Open a pull request from your forked repository to the main repository. Provide a clear description of your changes and why they should be merged.
+
+Thank you for your contributions!
+
+---
 
 ## Feedback
 
