@@ -1,5 +1,3 @@
-# []()
-
 <p align="center">
   <a href="https://github.com/Pulkit1822/CSE4001-Internet-and-Web-Programming">
     <img src="https://e7.pngegg.com/pngimages/827/941/png-clipart-web-development-web-design-logo-website-arrow-and-globe-logo-search-engine-optimization-text.png" height="128">
